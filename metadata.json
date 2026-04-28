@@ -1,0 +1,6 @@
+{
+  "name": "PC Master Configurator",
+  "description": "An immersive web application for custom PC building and hardware configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
